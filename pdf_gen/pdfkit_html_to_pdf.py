@@ -30,7 +30,7 @@ get_html = GetHtml()
 pro_html = ProHtml()
 
 # url = 'https://www.cmmedia.com.tw/home/articles/42987'
-url = 'http://www.my-formosa.com/DOC_199361.htm'
+url = 'https://www.hk01.com/article/957244'
 
 html = get_html.get_html(url)
 

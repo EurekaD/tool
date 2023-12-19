@@ -15,7 +15,8 @@ from db import DB
 db = DB()
 
 # 读取整个Excel文件
-excel_path = r'C:\Users\RZ\OneDrive\桌面\2024大选详细网页\3_2\3_2.xlsx'
+# excel_path = r'C:\Users\RZ\OneDrive\桌面\2024大选详细网页\3_2\3_2.xlsx'
+excel_path = r'C:\Users\RZ\OneDrive\桌面\2024大选详细网页\new-4\new.xlsx'
 excel_file = pd.ExcelFile(excel_path)
 
 # 遍历每个sheet并读取为DataFrame，然后进行修改

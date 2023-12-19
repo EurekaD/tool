@@ -11,7 +11,7 @@ from minio import InvalidResponseError
 
 from MinioClient import MinIOUtil
 
-excel_path = r"C:\Users\RZ\OneDrive\桌面\2024大选详细网页\3_2\3_2.xlsx"
+excel_path = r"C:\Users\RZ\OneDrive\桌面\2024大选详细网页\new\new.xlsx"
 bucket_name = 'polldetail'
 
 # df = pd.read_excel(excel_path)
@@ -30,7 +30,7 @@ for sheet_name in excel_file.sheet_names:
         if math.isnan(row['volume']):
             continue
 
-        file_path = os.path.join("C:/Users/RZ/OneDrive/桌面/2024大选详细网页/3_2/", row['url'])
+        file_path = os.path.join("C:/Users/RZ/OneDrive/桌面/2024大选详细网页/new/", row['url'])
         print(file_path)
 
         try:
