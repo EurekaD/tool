@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3346a9c2-5284-4fa5-ac10-46e3927cb25c" name="Changes" comment="2023-12-19">
-      <change afterPath="$PROJECT_DIR$/ai/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ai/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/to_sql/cha.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/to_sql/data_count.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/to_sql/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/to_sql/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/to_sql/word_cloud.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MD5/md5.py" beforeDir="false" afterPath="$PROJECT_DIR$/MD5/md5.py" afterDir="false" />
+    <list default="true" id="3346a9c2-5284-4fa5-ac10-46e3927cb25c" name="Changes" comment="[2024-1-18]">
+      <change afterPath="$PROJECT_DIR$/MD5/混淆的js代码.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -261,7 +253,7 @@
       <workItem from="1704962856296" duration="2509000" />
       <workItem from="1705285625482" duration="9049000" />
       <workItem from="1705478641214" duration="69000" />
-      <workItem from="1705543788150" duration="4743000" />
+      <workItem from="1705543788150" duration="5072000" />
     </task>
     <task id="LOCAL-00001" summary="commit firstly">
       <created>1698398821556</created>
@@ -291,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702967897338</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="[2024-1-18]">
+      <created>1705563168323</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705563168323</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -313,7 +312,8 @@
     <MESSAGE value="delete .idea" />
     <MESSAGE value="add timestamp" />
     <MESSAGE value="2023-12-19" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023-12-19" />
+    <MESSAGE value="[2024-1-18]" />
+    <option name="LAST_COMMIT_MESSAGE" value="[2024-1-18]" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
